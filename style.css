@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #312E2F;
+    color: white;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+.header-imagem{
+    width: 200px;
+}
+ul{
+   
+    position: absolute;
+    width: 935px;
+    height: 166px;
+    left: 750px;
+    top: 110px;
+}
+.header-lista-item{
+    display: inline-block;
+    margin: 0 40px;
+    font-size: 24px;
+}
