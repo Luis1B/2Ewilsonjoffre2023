@@ -1,5 +1,10 @@
-.header{
+
+body{
     background-color: #312E2F;
+}
+
+.header{
+    background-color: #3f3b3c;
     color: white;
     justify-content: space-around;
     padding: 20px;
@@ -36,4 +41,20 @@
 
 .sobreMim{
     background-color: #312E2F;
+}
+
+#rodape{
+    
+    
+    background-color: #3f3b3c;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding: 100px;
+
+}
+
+.informacoes{
+    margin-top: 100px;
 }
